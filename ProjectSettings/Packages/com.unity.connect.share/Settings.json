@@ -6,6 +6,7 @@
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "firstTime",
+<<<<<<< HEAD
                 "value": "{\"m_Value\":false}"
             },
             {
@@ -17,6 +18,9 @@
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
                 "value": "{\"m_Value\":\"C:/Repos/Unity/Motor de Jogos/Pachinko 2D WebGL;;;;;;;;;\"}"
+=======
+                "value": "{\"m_Value\":true}"
+>>>>>>> origin/main
             }
         ]
     }
